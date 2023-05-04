@@ -1,0 +1,78 @@
+[{
+	"SIGUN_NM": "가평군",
+	"FACLT_DIV_NM": "유치원",
+	"PLVTINST_DIV_NM": "공립",
+	"FACLT_NM": "가평유치원",
+	"TELNO": "031-582-4982",
+	"REFINE_LOTNO_ADDR": "경기도 가평군 가평읍 읍내리 553번지 가평유치원",
+	"REFINE_ROADNM_ADDR": "경기도 가평군 가평읍 향교로 23-3",
+	"REFINE_ZIPNO": "12417",
+	"REFINE_WGS84_LAT": "37.8304855886",
+	"REFINE_WGS84_LOGT": "127.5075514810"
+}, {
+	"SIGUN_NM": "가평군",
+	"FACLT_DIV_NM": "어린이집",
+	"PLVTINST_DIV_NM": "민간",
+	"FACLT_NM": "청심어린이집",
+	"TELNO": "031-589-9900",
+	"REFINE_LOTNO_ADDR": "경기도 가평군 설악면 송산리 286번지 청심어린이집",
+	"REFINE_ROADNM_ADDR": "경기도 가평군 설악면 미사리로286번길 16 청심어린이집",
+	"REFINE_ZIPNO": "12461",
+	"REFINE_WGS84_LAT": "37.6846458812",
+	"REFINE_WGS84_LOGT": "127.5230912718"
+}, {
+	"SIGUN_NM": "가평군",
+	"FACLT_DIV_NM": "유치원",
+	"PLVTINST_DIV_NM": "공립",
+	"FACLT_NM": "상면초등학교병설유치원",
+	"TELNO": "031-584-2927",
+	"REFINE_LOTNO_ADDR": "경기도 가평군 상면 임초리 445-3번지 상면초등학교",
+	"REFINE_ROADNM_ADDR": "경기도 가평군 상면 청군로 700-22",
+	"REFINE_ZIPNO": "12447",
+	"REFINE_WGS84_LAT": "37.7757901709",
+	"REFINE_WGS84_LOGT": "127.3711993679"
+}, {
+	"SIGUN_NM": "가평군",
+	"FACLT_DIV_NM": "유치원",
+	"PLVTINST_DIV_NM": "공립",
+	"FACLT_NM": "상천초등학교병설유치원",
+	"TELNO": "031-585-1366",
+	"REFINE_LOTNO_ADDR": "경기도 가평군 청평면 상천리 1299-4번지 상천초등학교",
+	"REFINE_ROADNM_ADDR": "경기도 가평군 청평면 상천역로19번길 38",
+	"REFINE_ZIPNO": "12449",
+	"REFINE_WGS84_LAT": "37.7706025752",
+	"REFINE_WGS84_LOGT": "127.4559794119"
+}, {
+	"SIGUN_NM": "가평군",
+	"FACLT_DIV_NM": "유치원",
+	"PLVTINST_DIV_NM": "공립",
+	"FACLT_NM": "율길초등학교병설유치원",
+	"TELNO": "031-584-6005",
+	"REFINE_LOTNO_ADDR": "경기도 가평군 상면 율길리 454-1번지 율길초등학교 병설유치원",
+	"REFINE_ROADNM_ADDR": "경기도 가평군 상면 청군로 2090",
+	"REFINE_ZIPNO": "12441",
+	"REFINE_WGS84_LAT": "37.8374192084",
+	"REFINE_WGS84_LOGT": "127.2883726006"
+}, {
+	"SIGUN_NM": "광주시",
+	"FACLT_DIV_NM": "어린이집",
+	"PLVTINST_DIV_NM": "민간",
+	"FACLT_NM": "레인보우어린이집",
+	"TELNO": "031-767-8060",
+	"REFINE_LOTNO_ADDR": "경기도 광주시 목동 358-1번지",
+	"REFINE_ROADNM_ADDR": "경기도 광주시 목동길 110",
+	"REFINE_ZIPNO": "12770",
+	"REFINE_WGS84_LAT": "37.3807772365",
+	"REFINE_WGS84_LOGT": "127.1922304930"
+}, {
+	"SIGUN_NM": "화성시",
+	"FACLT_DIV_NM": "유치원",
+	"PLVTINST_DIV_NM": "사립",
+	"FACLT_NM": "이화유치원",
+	"TELNO": "031-227-0635",
+	"REFINE_LOTNO_ADDR": "경기도 화성시 봉담읍 분천리 54-7번지",
+	"REFINE_ROADNM_ADDR": "경기도 화성시 봉담읍 시냇말길 38",
+	"REFINE_ZIPNO": "18329",
+	"REFINE_WGS84_LAT": "37.2097404567",
+	"REFINE_WGS84_LOGT": "126.9593189040"
+}]
